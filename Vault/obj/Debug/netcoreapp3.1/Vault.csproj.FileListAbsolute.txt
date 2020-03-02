@@ -1,0 +1,16 @@
+C:\Users\dickl\source\repos\Vault\Vault\bin\Debug\netcoreapp3.1\Vault.exe
+C:\Users\dickl\source\repos\Vault\Vault\bin\Debug\netcoreapp3.1\Vault.deps.json
+C:\Users\dickl\source\repos\Vault\Vault\bin\Debug\netcoreapp3.1\Vault.runtimeconfig.json
+C:\Users\dickl\source\repos\Vault\Vault\bin\Debug\netcoreapp3.1\Vault.runtimeconfig.dev.json
+C:\Users\dickl\source\repos\Vault\Vault\bin\Debug\netcoreapp3.1\Vault.dll
+C:\Users\dickl\source\repos\Vault\Vault\bin\Debug\netcoreapp3.1\Vault.pdb
+C:\Users\dickl\Documents\Build\netcoreapp3.1\Vault.exe
+C:\Users\dickl\Documents\Build\netcoreapp3.1\Vault.deps.json
+C:\Users\dickl\Documents\Build\netcoreapp3.1\Vault.runtimeconfig.json
+C:\Users\dickl\Documents\Build\netcoreapp3.1\Vault.runtimeconfig.dev.json
+C:\Users\dickl\Documents\Build\netcoreapp3.1\Vault.dll
+C:\Users\dickl\Documents\Build\netcoreapp3.1\Vault.pdb
+C:\Users\dickl\source\repos\Vault\Vault\obj\Debug\netcoreapp3.1\Vault.AssemblyInfoInputs.cache
+C:\Users\dickl\source\repos\Vault\Vault\obj\Debug\netcoreapp3.1\Vault.AssemblyInfo.cs
+C:\Users\dickl\source\repos\Vault\Vault\obj\Debug\netcoreapp3.1\Vault.dll
+C:\Users\dickl\source\repos\Vault\Vault\obj\Debug\netcoreapp3.1\Vault.pdb

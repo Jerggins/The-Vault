@@ -1,0 +1,10 @@
+C:\Users\dickl\source\repos\Vault\Vault\bin\Release\netcoreapp3.1\Vault.exe
+C:\Users\dickl\source\repos\Vault\Vault\bin\Release\netcoreapp3.1\Vault.deps.json
+C:\Users\dickl\source\repos\Vault\Vault\bin\Release\netcoreapp3.1\Vault.runtimeconfig.json
+C:\Users\dickl\source\repos\Vault\Vault\bin\Release\netcoreapp3.1\Vault.runtimeconfig.dev.json
+C:\Users\dickl\source\repos\Vault\Vault\bin\Release\netcoreapp3.1\Vault.dll
+C:\Users\dickl\source\repos\Vault\Vault\bin\Release\netcoreapp3.1\Vault.pdb
+C:\Users\dickl\source\repos\Vault\Vault\obj\Release\netcoreapp3.1\Vault.AssemblyInfoInputs.cache
+C:\Users\dickl\source\repos\Vault\Vault\obj\Release\netcoreapp3.1\Vault.AssemblyInfo.cs
+C:\Users\dickl\source\repos\Vault\Vault\obj\Release\netcoreapp3.1\Vault.dll
+C:\Users\dickl\source\repos\Vault\Vault\obj\Release\netcoreapp3.1\Vault.pdb
